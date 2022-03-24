@@ -65,7 +65,7 @@ Card.Feature = function CardFeature({ children, category, ...restProps }) {
     return showFeature ? (
         <Feature
             {...restProps}
-            src={`/images/${category}/${itemFeature.genre}/${itemFeature.slug}/large.jpg`}
+            src={`/images/background/${itemFeature.slug}`}
         >
             <Content>
                 <FeatureTitle>{itemFeature.title}</FeatureTitle>

@@ -46,7 +46,7 @@ Player.Button = function PlayerButton({ ...restProps }) {
             onClick={() => setShowPlayer((showPlayer) => !showPlayer)}
             {...restProps}
         >
-            Play
+            Sign up
         </Button>
     );
 };

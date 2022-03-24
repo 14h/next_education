@@ -28,8 +28,8 @@ export const Inner = styled.div`
 `;
 
 export const Button = styled.button`
-    background-color: #e50914;
-    border-color: #ff0a10;
+    background-color: #E1502E;
+    border-color: #D93B22;
     border-radius: 10%;
     width: 114px;
     height: 45px;
