@@ -67,7 +67,7 @@ Header.Search = function HeaderSearch({
             <SearchInput
                 value={searchTerm}
                 onChange={({ target }) => setSearchTerm(target.value)}
-                placeholder="Search films and series"
+                placeholder="Search workshops and lectures"
                 // @ts-ignore
                 active={searchActive}
                 data-testid="search-input"
