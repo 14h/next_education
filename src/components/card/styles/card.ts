@@ -199,7 +199,7 @@ export const Content = styled.div`
 export const Maturity = styled.div<any>`
     background-color: ${({ rating }) => (rating >= 15 ? "red" : "green")};
     border-radius: 15px;
-    width: 20px;
+    width: 120px;
     padding: 5px;
     text-align: center;
     color: white;

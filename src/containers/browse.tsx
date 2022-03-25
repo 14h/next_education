@@ -22,7 +22,7 @@ const series1 = [
         description:
         "The city of the future is designed for accessibility and safety as more people populate urban areas. Residents have healthier lives with more streamlined access to nature, services, and automated technology.",
         genre: "Technology",
-        maturity: "12",
+        maturity: "120",
         slug: "cities.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.33.png"
     },
@@ -33,7 +33,7 @@ const series1 = [
         description:
         "Free will is the capacity of agents to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen. It is also connected with the concepts of advice, persuasion, deliberation, and prohibition.",
         genre: "Philosophy",
-        maturity: "12",
+        maturity: "42",
         slug: "freewill.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.56.png"
     },
@@ -43,7 +43,7 @@ const series1 = [
         description:
             "Throughout the body, excess sugar is harmful. Even a single instance of elevated glucose in the bloodstream can be harmful to the brain, resulting in slowed cognitive function and deficits in memory and attention.",
         genre: "Health",
-        maturity: "18",
+        maturity: "12",
         slug: "sugar.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.16.png"
     },
@@ -53,7 +53,7 @@ const series1 = [
         description:
             "Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
         genre: "Artificial Intelligence",
-        maturity: "12",
+        maturity: "100",
         slug: "machines.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.06.png"
     }
@@ -67,7 +67,7 @@ const series2= [
         description:
             "Demonstrations are a fundamental right in democracies. For thousands of years, people have come together to express their opinions and protest against injustice. But to what extent do demonstrations have a positive effect on peace and where are the limits?",
         genre: "Politics",
-        maturity: "12",
+        maturity: "54",
         slug: "demo.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.24.png"
     },
@@ -77,7 +77,7 @@ const series2= [
         description:
         "Globalization is the word used to describe the growing interdependence of the world’s economies, cultures, and populations, brought about by cross-border trade in goods and services, technology, and flows of investment, people, and information.",
         genre: "Geography",
-        maturity: "12",
+        maturity: "67",
         slug: "global.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.55.16.png"
     },
@@ -87,7 +87,7 @@ const series2= [
         description:
             "The ancient Romans were so advanced for their time in combat because they had all the equipment, armour and weapons that would be far superior than everyone else in the world for the next century. The Romans took most of their other ideas off the greeks after they conquered them.",
         genre: "History",
-        maturity: "18",
+        maturity: "12",
         slug: "romans.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.53.35.png"
     },
@@ -97,7 +97,7 @@ const series2= [
         description:
             "The economic history of Japan is considered to be the period from the 9th century, from which the first economic activities are documented. From the 15th century, the first contacts with European seafarers are established. The development of Japan into an industrial nation took its beginnings even before the opening of the country in the middle of the 19th century. But how was Japan able to rise to become one of the world's most influential industrial nations in such a short time?",
         genre: "History",
-        maturity: "12",
+        maturity: "40",
         slug: "japan.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.53.44.png"
     }
@@ -110,7 +110,7 @@ const series3 = [
         description:
         "We are an entrepreneurial hackathon that vows to unite students from diverse backgrounds to tackle global issues using technology - while having fun",
         genre: "Technology",
-        maturity: "12",
+        maturity: "300",
         slug: "hackathon.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.57.07.png"
     },
@@ -120,7 +120,7 @@ const series3 = [
         description:
         "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one.",
         genre: "Technology",
-        maturity: "18",
+        maturity: "12",
         slug: "js.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.50.png"
     },
@@ -130,7 +130,7 @@ const series3 = [
         description:
             "To accept death we must have a belief that death is simply a natural part of life and something which is out of our control. And to do this we must find a way to make ourselves feel comfortable with the concept of death and our own mortality.",
         genre: "Philosophy",
-        maturity: "12",
+        maturity: "130",
         slug: "death.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.53.55.png"
     },
@@ -140,7 +140,7 @@ const series3 = [
         description:
         "Urban horticulture specifically is the study of the relationship between plants and the urban environment. It focuses on the functional use of horticulture so as to maintain and improve the surrounding urban area.",
         genre: "DIY",
-        maturity: "12",
+        maturity: "123",
         slug: "urban.png",
         image: "/images/users/Bildschirmfoto 2022-03-24 um 20.54.41.png"
     }
